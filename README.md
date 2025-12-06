@@ -3,8 +3,8 @@
 **Chess Suite** es una app para escritorio de entrenamiento en ajedrez, con herramientas para el cálculo de Elo, tarjetero para guardar jugadas interesantes, poderlas estudiar y resolver, así como generación de diagramas como imagen para cualquier uso.
 
 ## Autor
-Martínez Mejía Eduardo
-
+**Nombre:** Martínez Mejía Eduardo
+**Número de cuenta:** 320326727
 
 ## Ejecucuón
 
