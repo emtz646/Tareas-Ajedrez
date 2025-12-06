@@ -1,8 +1,12 @@
 # ♟️ Chess Suite
 
-**Chess Suite** App de escritorio para entrenamiento en ajedrez, con herramientas para el cálculo de Elo, tarjetero para guardar jugadas interesantes, poderlas estudiar y resolver, así como generación de diagramas como imagen para cualquier uso.
+**Chess Suite** es una app para escritorio de entrenamiento en ajedrez, con herramientas para el cálculo de Elo, tarjetero para guardar jugadas interesantes, poderlas estudiar y resolver, así como generación de diagramas como imagen para cualquier uso.
 
-## Ejecucuón Manual
+## Autor
+Martínez Mejía Eduardo
+
+
+## Ejecucuón
 
 1.  **Instalar dependencias:**
 
@@ -26,11 +30,11 @@
 ├── main.py                <-- Archivo de ejecución
 ├── requirements.txt       <-- Lista de dependencias Python
 │
-├── resources/                <-- Recursos gráficos y datos
+├── resources/             <-- Recursos gráficos y datos
 │   └── diagramas/      
 |       └── imagenes exportadas/
 │   └── tarjetas/      
-|       └── tarjetero.csv       (Tarjetero)
+|       └── tarjetero.csv
 │
 ├── paginas/
 │   ├── AjedrezCiegoPage.py
